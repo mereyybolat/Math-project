@@ -7,3 +7,5 @@ Skills Gained:
 - Conducted hypothesis testing.
 
 The analysis suggested that the "Ozone AQI value" data might be normally distributed based on the calculated measures and hypothesis testing. This project enhanced my skills in using Excel for data analysis and conducting statistical tests to draw meaningful conclusions from real-world data.
+
+Here is a link to Google Sheet where I made calculations: https://docs.google.com/spreadsheets/d/1NBhhjut7gJQ04rw3bB-lz6MY8pnefdOOIjfWdfNVkzY/edit?gid=0#gid=0
