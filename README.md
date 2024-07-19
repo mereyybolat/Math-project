@@ -1,4 +1,4 @@
-# Math-project
+# Math-Statistics-project
 In this project, I analyzed a dataset from Kaggle.com containing Air Quality Index (AQI) values from cities worldwide. I focused on the "Ozone AQI value" column and randomly selected 190 data points for my analysis.
 
 Skills Gained:
